@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Home Page</title>
+    </head>
+    <body>
+        <h1>Welcome to SimpleWebApp!</h1>
+        <p>This is a simple web application running on Apache Tomcat.</p>
+    </body>
+</html>
